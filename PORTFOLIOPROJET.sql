@@ -1,8 +1,8 @@
 
-
+/*
 Skills used: Cast,Conveting Date Types, Joins , Temp Tables, Windows Functions, Aggregate Functions 
-
-use PortfolioProjet
+*/
+-- use PortfolioProjet
 --select * from dbo.coviddeaths
 --order by 3,4
 
