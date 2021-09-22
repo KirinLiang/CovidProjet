@@ -1,6 +1,6 @@
 
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Skills used: Cast,Conveting Date Types, Joins , Temp Tables, Windows Functions, Aggregate Functions 
 
 use PortfolioProjet
 --select * from dbo.coviddeaths
