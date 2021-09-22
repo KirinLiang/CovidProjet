@@ -1,5 +1,7 @@
 
 
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
 use PortfolioProjet
 --select * from dbo.coviddeaths
 --order by 3,4
